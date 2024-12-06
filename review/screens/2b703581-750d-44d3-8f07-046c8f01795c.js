@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1920" height="3072">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1733491284857.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1733496030673.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-2b703581-750d-44d3-8f07-046c8f01795c" class="screen growth-none devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Editor"width="1920" height="900">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/2b703581-750d-44d3-8f07-046c8f01795c/style-1733491284857.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/2b703581-750d-44d3-8f07-046c8f01795c/fonts-1733491284857.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/2b703581-750d-44d3-8f07-046c8f01795c/style-1733496030673.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/2b703581-750d-44d3-8f07-046c8f01795c/fonts-1733496030673.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-center non-processed-pin non-processed" customid="Fixed header" datasizewidth="1920.00px" datasizeheight="90.51px" dataX="0.00" dataY="0.00" >\
         <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="1920.00px" datasizeheight="90.51px" >\
@@ -261,7 +261,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                 </div>\
 \
 \
-                <div id="s-Image_2" class="image lockV firer mouseenter mouseleave ie-background commentable non-processed" customid="Logo"   datasizewidth="59.00px" datasizeheight="59.00px" dataX="30.00" dataY="15.76" aspectRatio="1.0"   alt="image">\
+                <div id="s-Image_2" class="image lockV firer mouseenter mouseleave click ie-background commentable non-processed" customid="Logo"   datasizewidth="59.00px" datasizeheight="59.00px" dataX="30.00" dataY="15.76" aspectRatio="1.0"   alt="image">\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                   		<img src="./images/02404afa-6128-4f5a-8e2e-efb0e5539d2b.png" />\
