@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Figtree_6.0.0_google";
+  src: url("../../../fonts/Figtree-Regular_6.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Ovo_17.0.0_google";
+  src: url("../../../fonts/Ovo-Regular_17.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Candara_5.62.0_system";
+  src: url("../../../fonts/Candara-Regular_5.62.0_system.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}

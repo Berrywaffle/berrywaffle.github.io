@@ -2,18 +2,18 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1920" height="3072">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1733100138407.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1733491284857.css" />\
       <div class="freeLayout">\
       </div>\
 \
       </div>\
       <div id="loadMark"></div>\
     </div>\
-    <div id="s-71ae8600-263f-40e9-bec9-10d02fb36e8e" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Create account"width="1920" height="900">\
+    <div id="s-71ae8600-263f-40e9-bec9-10d02fb36e8e" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Create Account"width="1920" height="900">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/71ae8600-263f-40e9-bec9-10d02fb36e8e/style-1733100138407.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/71ae8600-263f-40e9-bec9-10d02fb36e8e/fonts-1733100138407.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/71ae8600-263f-40e9-bec9-10d02fb36e8e/style-1733491284857.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/71ae8600-263f-40e9-bec9-10d02fb36e8e/fonts-1733491284857.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_panel_1" class="dynamicpanel firer ie-background commentable non-processed" customid="Sign in panels" datasizewidth="960.00px" datasizeheight="810.00px" dataX="480.00" dataY="45.00" >\
         <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="960.00px" datasizeheight="810.00px" >\
@@ -227,7 +227,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                       </div>\
                     </div>\
                   </div>\
-                  <div id="s-Paragraph_67" class="richtext autofit firer ie-background commentable non-processed" customid="Email"   datasizewidth="46.69px" datasizeheight="21.00px" dataX="82.00" dataY="437.81" >\
+                  <div id="s-Paragraph_67" class="richtext autofit firer ie-background commentable non-processed" customid="Email"   datasizewidth="43.29px" datasizeheight="21.00px" dataX="82.00" dataY="437.81" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -250,7 +250,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
                   </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Your password"/></div></div>  </div></div></div>\
-                  <div id="s-Text_3" class="richtext autofit firer ie-background commentable non-processed" customid="Password"   datasizewidth="80.33px" datasizeheight="21.00px" dataX="82.00" dataY="556.68" >\
+                  <div id="s-Text_3" class="richtext autofit firer ie-background commentable non-processed" customid="Password"   datasizewidth="77.56px" datasizeheight="21.00px" dataX="82.00" dataY="556.68" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -267,7 +267,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                   </div>\
                 </div>\
 \
-                <div id="s-Button_3" class="button multiline manualfit firer mouseenter mouseleave click commentable non-processed" customid="Secondary button"   datasizewidth="106.62px" datasizeheight="59.30px" dataX="82.00" dataY="685.34" >\
+                <div id="s-Button_3" class="button multiline manualfit firer mouseenter mouseleave click commentable non-processed" customid="Secondary button"   datasizewidth="222.82px" datasizeheight="62.00px" dataX="82.00" dataY="685.34" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -276,7 +276,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Button_3_0">Next</span>\
+                          <span id="rtr-s-Button_3_0">Create account</span>\
                         </div>\
                       </div>\
                     </div>\

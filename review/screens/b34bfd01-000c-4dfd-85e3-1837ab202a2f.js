@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1920" height="3072">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1733100138407.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1733491284857.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-b34bfd01-000c-4dfd-85e3-1837ab202a2f" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Landing Page - Signed In"width="1920" height="3072">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/b34bfd01-000c-4dfd-85e3-1837ab202a2f/style-1733100138407.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/b34bfd01-000c-4dfd-85e3-1837ab202a2f/fonts-1733100138407.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/b34bfd01-000c-4dfd-85e3-1837ab202a2f/style-1733491284857.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/b34bfd01-000c-4dfd-85e3-1837ab202a2f/fonts-1733491284857.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-center non-processed-pin non-processed" customid="Fixed header" datasizewidth="1920.00px" datasizeheight="90.51px" dataX="0.00" dataY="0.00" >\
         <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="1920.00px" datasizeheight="90.51px" >\
@@ -107,7 +107,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                                       <div class="center ghostHLayout">\
                                       <table class="layout" summary="">\
                                         <tr>\
-                                          <td class="layout horizontal insertionpoint verticalalign Cell_4 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_1" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Forums"   datasizewidth="119.01px" datasizeheight="64.00px" dataX="23.83" dataY="6.25" >\
+                                          <td class="layout horizontal insertionpoint verticalalign Cell_4 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_1" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Forums"   datasizewidth="119.01px" datasizeheight="64.00px" dataX="12.99" dataY="0.00" >\
                                         <div class="backgroundLayer">\
                                           <div class="colorLayer"></div>\
                                           <div class="imageLayer"></div>\
@@ -143,7 +143,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                                       <div class="center ghostHLayout">\
                                       <table class="layout" summary="">\
                                         <tr>\
-                                          <td class="layout horizontal insertionpoint verticalalign Cell_5 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_2" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Discover"   datasizewidth="119.01px" datasizeheight="64.00px" dataX="8.50" dataY="-0.00" >\
+                                          <td class="layout horizontal insertionpoint verticalalign Cell_5 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_2" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Discover"   datasizewidth="119.01px" datasizeheight="64.00px" dataX="12.99" dataY="0.00" >\
                                         <div class="backgroundLayer">\
                                           <div class="colorLayer"></div>\
                                           <div class="imageLayer"></div>\
@@ -179,7 +179,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                                       <div class="center ghostHLayout">\
                                       <table class="layout" summary="">\
                                         <tr>\
-                                          <td class="layout horizontal insertionpoint verticalalign Cell_6 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_3" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Learn"   datasizewidth="75.01px" datasizeheight="32.00px" dataX="45.83" dataY="22.25" >\
+                                          <td class="layout horizontal insertionpoint verticalalign Cell_6 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_3" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Learn"   datasizewidth="69.22px" datasizeheight="33.00px" dataX="37.89" dataY="14.32" >\
                                         <div class="backgroundLayer">\
                                           <div class="colorLayer"></div>\
                                           <div class="imageLayer"></div>\
@@ -209,7 +209,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Dynamic_panel_2" class="percentage dynamicpanel firer ie-background commentable pin vpin-beginning non-processed-percentage non-processed-pin non-processed" customid="Search input" datasizewidth="27.50%" datasizeheight="61.32px" dataX="657.00" dataY="0.00" >\
+                <div id="s-Dynamic_panel_2" class="percentage dynamicpanel firer ie-background commentable pin vpin-beginning hpin-center non-processed-percentage non-processed-pin non-processed" customid="Search input" datasizewidth="27.50%" datasizeheight="61.32px" dataX="0.00" dataY="0.00" >\
                   <div id="s-Panel_2" class="percentage panel default firer ie-background commentable non-processed-percentage non-processed" customid="Panel 2"  datasizewidth="27.50%" datasizeheight="61.32px" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
@@ -252,7 +252,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                   </div>\
                 </div>\
 \
-                <div id="s-Image_1" class="image lockV firer ie-background commentable non-processed" customid="Image 3"  title="Profile" datasizewidth="59.00px" datasizeheight="59.00px" dataX="1837.00" dataY="16.00" aspectRatio="1.0"   alt="image">\
+                <div id="s-Image_1" class="image lockV firer mouseenter mouseleave ie-background commentable non-processed" customid="Image 3"  title="Profile" datasizewidth="59.00px" datasizeheight="59.00px" dataX="1820.00" dataY="15.76" aspectRatio="1.0"   alt="image">\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                   		<img src="./images/6e977367-9f6b-4685-bd64-39361a52cdd2.png" />\
@@ -261,7 +261,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                 </div>\
 \
 \
-                <div id="s-Image_2" class="image lockV firer mouseenter mouseleave ie-background commentable non-processed" customid="Logo"   datasizewidth="59.00px" datasizeheight="59.00px" dataX="30.00" dataY="15.76" aspectRatio="1.0"   alt="image">\
+                <div id="s-Image_2" class="image lockV firer mouseenter mouseleave click ie-background commentable non-processed" customid="Logo"   datasizewidth="59.00px" datasizeheight="59.00px" dataX="30.00" dataY="15.76" aspectRatio="1.0"   alt="image">\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                   		<img src="./images/02404afa-6128-4f5a-8e2e-efb0e5539d2b.png" />\
@@ -269,32 +269,14 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                   </div>\
                 </div>\
 \
-                <div id="s-Path_176" class="path firer commentable non-processed" customid="Alert"   datasizewidth="32.82px" datasizeheight="40.00px" dataX="1765.00" dataY="25.26"  >\
+                <div id="s-Path_33" class="path firer mouseleave mouseenter commentable non-processed" customid="Folder"  title="Dashboard" datasizewidth="50.00px" datasizeheight="40.00px" dataX="1510.00" dataY="25.26"  >\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                     	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="32.820512820512825" height="40.0" viewBox="1765.0 25.255989583333317 32.820512820512825 40.0" preserveAspectRatio="none">\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="50.0" height="40.0" viewBox="1510.0 25.25598958333332 50.0 40.0" preserveAspectRatio="none">\
                     	  <g>\
                     	    <defs>\
-                    	      <path id="s-Path_176-b34bf" d="M1781.4102564102564 65.25598958333332 C1783.666666715573 65.25598958333332 1785.5128205128206 63.40983578608585 1785.5128205128206 61.153425480769215 L1777.3076923076924 61.153425480769215 C1777.3076923076924 63.40983578608585 1779.1333333039895 65.25598958333332 1781.4102564102564 65.25598958333332 Z M1793.7179487179487 52.94829727564101 L1793.7179487179487 42.69188701923075 C1793.7179487179487 36.3944512587327 1790.35384618319 31.122656523875683 1784.4871794871794 29.727784103002286 L1784.4871794871794 28.332912660256394 C1784.4871794871794 26.630348591926754 1783.112820478586 25.255989583333317 1781.4102564102564 25.255989583333317 C1779.7076923419268 25.255989583333317 1778.3333333333333 26.630348591926754 1778.3333333333333 28.332912660256394 L1778.3333333333333 29.727784469800103 C1772.4461540809045 31.122656523875683 1769.1025641025642 36.37393845778244 1769.1025641025642 42.69188701923075 L1769.1025641025642 52.94829727564101 L1765.0 57.05086137820512 L1765.0 59.10214342948717 L1797.820512820513 59.10214342948717 L1797.820512820513 57.05086137820512 L1793.7179487179487 52.94829727564101 Z "></path>\
-                    	    </defs>\
-                    	    <g style="mix-blend-mode:normal">\
-                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_176-b34bf" fill="#3D3228" fill-opacity="1.0"></use>\
-                    	    </g>\
-                    	  </g>\
-                    	</svg>\
-\
-                    </div>\
-                  </div>\
-                </div>\
-                <div id="s-Path_33" class="path firer commentable non-processed" customid="Folder"   datasizewidth="50.00px" datasizeheight="40.00px" dataX="1673.00" dataY="25.00"  >\
-                  <div class="borderLayer">\
-                  	<div class="imageViewport">\
-                    	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="50.0" height="40.0" viewBox="1673.0 25.0 50.0 40.0" preserveAspectRatio="none">\
-                    	  <g>\
-                    	    <defs>\
-                    	      <path id="s-Path_33-b34bf" d="M1693.0 25.0 L1678.0 25.0 C1675.2499999403954 25.0 1673.0249999761581 27.249999940395355 1673.0249999761581 30.0 L1673.0 60.0 C1673.0 62.750000059604645 1675.2499999403954 65.0 1678.0 65.0 L1718.0 65.0 C1720.7500000596046 65.0 1723.0 62.750000059604645 1723.0 60.0 L1723.0 35.0 C1723.0 32.249999940395355 1720.7500000596046 30.0 1718.0 30.0 L1698.0 30.0 L1693.0 25.0 Z "></path>\
+                    	      <path id="s-Path_33-b34bf" d="M1530.0 25.25598958333332 L1515.0 25.25598958333332 C1512.2499999403954 25.25598958333332 1510.0249999761581 27.505989523728676 1510.0249999761581 30.25598958333332 L1510.0 60.25598958333332 C1510.0 63.00598964293796 1512.2499999403954 65.25598958333332 1515.0 65.25598958333332 L1555.0 65.25598958333332 C1557.7500000596046 65.25598958333332 1560.0 63.00598964293796 1560.0 60.25598958333332 L1560.0 35.25598958333332 C1560.0 32.50598952372867 1557.7500000596046 30.25598958333332 1555.0 30.25598958333332 L1535.0 30.25598958333332 L1530.0 25.25598958333332 Z "></path>\
                     	    </defs>\
                     	    <g style="mix-blend-mode:normal">\
                     	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_33-b34bf" fill="#3D3228" fill-opacity="1.0"></use>\
@@ -305,14 +287,14 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Path_23" class="path firer commentable non-processed" customid="Envelope badge"   datasizewidth="50.12px" datasizeheight="40.00px" dataX="1589.00" dataY="25.26"  >\
+                <div id="s-Path_23" class="path firer mouseleave mouseenter commentable non-processed" customid="Envelope badge"  title="Messages" datasizewidth="50.12px" datasizeheight="40.00px" dataX="1672.00" dataY="25.26"  >\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                     	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="50.1192547773841" height="40.0" viewBox="1589.0 25.255989583333356 50.1192547773841 40.0" preserveAspectRatio="none">\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="50.1192547773841" height="40.0" viewBox="1672.0 25.255989583333275 50.1192547773841 40.0" preserveAspectRatio="none">\
                     	  <g>\
                     	    <defs>\
-                    	      <path id="s-Path_23-b34bf" d="M1631.9651302647821 39.56384148167709 C1635.8636470268966 39.56384148167709 1639.1192547773842 36.32906657877841 1639.1192547773842 32.40995209517649 C1639.1192547773842 28.49081173645338 1635.8636470268966 25.255989583333356 1631.9651302647821 25.255989583333356 C1628.0460844065017 25.255989583333356 1624.8112397532761 28.49081173645338 1624.8112397532761 32.40995209517649 C1624.8112397532761 36.32906657877841 1628.0460844065017 39.56384148167709 1631.9651302647821 39.56384148167709 Z M1595.8221962077253 65.25598958333336 L1629.2696221380113 65.25598958333336 C1633.271477384202 65.25598958333336 1635.5939787636694 62.93348820386596 1635.5939787636694 58.49586441637203 L1635.5939787636694 41.782770375972135 C1634.391438130518 42.30110980406839 1633.084857010002 42.529256372792474 1631.7164590999132 42.44620848376502 L1631.7164590999132 58.08133597456536 L1620.498190049334 46.96663940915863 L1626.6154017046474 40.95323874013488 C1625.5992474445998 40.33108832574902 1624.7076627680829 39.50179294101846 1624.0232275619317 38.54792572274671 L1614.691934350655 47.7546493504927 C1613.8211127714 48.60494408359209 1613.095389871842 48.978184831991726 1612.32814302777 48.978184831991726 C1611.5608984337086 48.978184831991726 1610.8351755341505 48.60494408359209 1609.9641177037888 47.7546493504927 L1594.8683278644482 32.824670662873785 C1595.1586410993843 32.7624556214352 1595.490406278497 32.72097892714281 1595.8429109297608 32.72097892714281 L1621.9288727511882 32.72097892714281 C1621.825300266016 31.39386871046089 1622.053442334719 30.02528179948658 1622.5510231655742 28.82260166568183 L1595.3245242514433 28.82260166568183 C1591.3224552542513 28.82260166568183 1589.0 31.124317447781696 1589.0 35.58255808185267 L1589.0 58.49586441637203 C1589.0 62.93348820386596 1591.3431936013976 65.25598958333336 1595.8221962077253 65.25598958333336 Z M1592.8776625394255 35.872872441793994 L1604.1581005062271 46.96663940915863 L1592.8776625394255 58.12262366797239 L1592.8776625394255 35.872872441793994 Z M1612.32814302777 52.66908412154808 C1613.8626367159138 52.66908412154808 1615.3348456122924 52.04693595717278 1616.8278153559227 50.57472931080477 L1617.9683051984048 49.45500031557425 L1629.8087201633484 61.212374141522275 C1629.497530205618 61.29541753052864 1629.1450480544595 61.33670972395676 1628.7510442087978 61.33670972395676 L1595.8429109297608 61.33670972395676 C1595.4696679313506 61.33670972395676 1595.117164405092 61.29541753052864 1594.8061128230097 61.23313273876333 L1606.6879853571563 49.45500031557425 L1607.8077121023764 50.57472931080477 C1609.3214426932582 52.04693595717278 1610.7728884923745 52.66908412154808 1612.32814302777 52.66908412154808 Z "></path>\
+                    	      <path id="s-Path_23-b34bf" d="M1714.9651302647821 39.56384148167701 C1718.8636470268966 39.56384148167701 1722.1192547773842 36.329066578778324 1722.1192547773842 32.409952095176415 C1722.1192547773842 28.4908117364533 1718.8636470268966 25.255989583333275 1714.9651302647821 25.255989583333275 C1711.0460844065017 25.255989583333275 1707.8112397532761 28.4908117364533 1707.8112397532761 32.409952095176415 C1707.8112397532761 36.329066578778324 1711.0460844065017 39.56384148167701 1714.9651302647821 39.56384148167701 Z M1678.8221962077253 65.25598958333327 L1712.2696221380113 65.25598958333327 C1716.271477384202 65.25598958333327 1718.5939787636694 62.93348820386588 1718.5939787636694 58.495864416371944 L1718.5939787636694 41.78277037597205 C1717.391438130518 42.301109804068304 1716.084857010002 42.52925637279239 1714.7164590999132 42.446208483764934 L1714.7164590999132 58.08133597456528 L1703.498190049334 46.96663940915855 L1709.6154017046474 40.95323874013479 C1708.5992474445998 40.331088325748944 1707.7076627680829 39.50179294101838 1707.0232275619317 38.547925722746626 L1697.691934350655 47.75464935049262 C1696.8211127714 48.60494408359201 1696.095389871842 48.97818483199164 1695.32814302777 48.97818483199164 C1694.5608984337086 48.97818483199164 1693.8351755341505 48.60494408359201 1692.9641177037888 47.75464935049262 L1677.8683278644482 32.8246706628737 C1678.1586410993843 32.76245562143512 1678.490406278497 32.72097892714273 1678.8429109297608 32.72097892714273 L1704.9288727511882 32.72097892714273 C1704.825300266016 31.393868710460808 1705.053442334719 30.0252817994865 1705.5510231655742 28.82260166568175 L1678.3245242514433 28.82260166568175 C1674.3224552542513 28.82260166568175 1672.0 31.124317447781614 1672.0 35.58255808185258 L1672.0 58.495864416371944 C1672.0 62.93348820386588 1674.3431936013976 65.25598958333327 1678.8221962077253 65.25598958333327 Z M1675.8776625394255 35.872872441793916 L1687.1581005062271 46.96663940915855 L1675.8776625394255 58.12262366797231 L1675.8776625394255 35.872872441793916 Z M1695.32814302777 52.669084121548 C1696.8626367159138 52.669084121548 1698.3348456122924 52.04693595717269 1699.8278153559227 50.574729310804685 L1700.9683051984048 49.455000315574175 L1712.8087201633484 61.21237414152219 C1712.497530205618 61.29541753052856 1712.1450480544595 61.33670972395668 1711.7510442087978 61.33670972395668 L1678.8429109297608 61.33670972395668 C1678.4696679313506 61.33670972395668 1678.117164405092 61.29541753052856 1677.8061128230097 61.233132738763246 L1689.6879853571563 49.455000315574175 L1690.8077121023764 50.574729310804685 C1692.3214426932582 52.04693595717269 1693.7728884923745 52.669084121548 1695.32814302777 52.669084121548 Z "></path>\
                     	    </defs>\
                     	    <g style="mix-blend-mode:normal">\
                     	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_23-b34bf" fill="#3D3228" fill-opacity="1.0"></use>\
@@ -323,14 +305,14 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Path_43" class="path firer commentable non-processed" customid="Bookmark"   datasizewidth="31.11px" datasizeheight="40.00px" dataX="1519.00" dataY="25.00"  >\
+                <div id="s-Path_43" class="path firer mouseleave mouseenter commentable non-processed" customid="Bookmark"  title="Saved Items" datasizewidth="31.11px" datasizeheight="40.00px" dataX="1601.00" dataY="25.26"  >\
                   <div class="borderLayer">\
                   	<div class="imageViewport">\
                     	<?xml version="1.0" encoding="UTF-8"?>\
-                    	<svg xmlns="http://www.w3.org/2000/svg" width="31.111111111111107" height="40.00000000000001" viewBox="1519.0 25.0 31.111111111111107 40.00000000000001" preserveAspectRatio="none">\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="31.111111111111107" height="40.00000000000001" viewBox="1601.0 25.255989583333296 31.111111111111107 40.00000000000001" preserveAspectRatio="none">\
                     	  <g>\
                     	    <defs>\
-                    	      <path id="s-Path_43-b34bf" d="M1545.6666666666667 25.0 L1523.4444444444443 25.0 C1520.999999947018 25.0 1519.0 26.999999947018093 1519.0 29.444444444444443 L1519.0 65.0 L1534.5555555555557 58.333333333333336 L1550.111111111111 65.0 L1550.111111111111 29.444444444444443 C1550.111111111111 26.999999947018093 1548.111111164093 25.0 1545.6666666666667 25.0 Z "></path>\
+                    	      <path id="s-Path_43-b34bf" d="M1627.6666666666667 25.255989583333296 L1605.4444444444443 25.255989583333296 C1602.999999947018 25.255989583333296 1601.0 27.25598953035139 1601.0 29.70043402777774 L1601.0 65.2559895833333 L1616.5555555555557 58.58932291666663 L1632.111111111111 65.2559895833333 L1632.111111111111 29.70043402777774 C1632.111111111111 27.25598953035139 1630.111111164093 25.255989583333296 1627.6666666666667 25.255989583333296 Z "></path>\
                     	    </defs>\
                     	    <g style="mix-blend-mode:normal">\
                     	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_43-b34bf" fill="#3D3228" fill-opacity="1.0"></use>\
@@ -341,8 +323,396 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                     </div>\
                   </div>\
                 </div>\
+                <div id="s-Path_30" class="path firer mouseleave mouseenter commentable non-processed" customid="Gear"  title="Settings" datasizewidth="40.00px" datasizeheight="40.00px" dataX="1750.00" dataY="25.26"  >\
+                  <div class="borderLayer">\
+                  	<div class="imageViewport">\
+                    	<?xml version="1.0" encoding="UTF-8"?>\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="40.0" height="40.00000000000001" viewBox="1750.0 25.255989583333303 40.0 40.00000000000001" preserveAspectRatio="none">\
+                    	  <g>\
+                    	    <defs>\
+                    	      <path id="s-Path_30-b34bf" d="M1768.1333122605238 65.2559895833333 L1771.8666897350074 65.2559895833333 C1773.393143394682 65.2559895833333 1774.5885683600145 64.29885085289534 1774.9564245827894 62.826283328750286 L1775.6919255020307 59.60490030622821 L1776.170054779327 59.4208029005845 L1778.9840052187133 61.169410672692806 C1780.2712904721168 61.979523146979815 1781.7977441317912 61.758562318112055 1782.8826865118253 60.672413590597735 L1785.457464553878 58.09547335359505 C1786.5610332222022 56.99088891973277 1786.7447498072816 55.4814619670996 1785.9355938311744 54.21142356021028 L1784.1885940624566 51.39488305645909 L1784.372522173844 50.95317711446416 L1787.5907353073528 50.19856750128193 C1789.0437454364696 49.830372689994505 1790.0 48.63384541381269 1790.0 47.1059867495675 L1790.0 43.479547489901925 C1790.0 41.95189854929341 1789.062156207389 40.7553712731116 1787.5907353073528 40.387176461824176 L1784.390725409518 39.613927410761214 L1784.2070088244386 39.13536004291019 L1785.9540085931565 36.33743900336006 C1786.7631645692636 35.067316707016076 1786.5792364578763 33.557867783335254 1785.47587931586 32.43500044177459 L1782.9011012738074 29.857914396910214 C1781.834569664693 28.77186753516228 1780.3081160050183 28.569381361317863 1779.0206232163694 29.360915317447176 L1776.2068843032912 31.091239183173116 L1775.6919255020307 30.907162749893068 L1774.9564245827894 27.667388961802324 C1774.5885683600145 26.194780491613916 1773.393143394682 25.255989583333303 1771.8666897350074 25.255989583333303 L1768.1333122605238 25.255989583333303 C1766.5884438388673 25.255989583333303 1765.3930168780034 26.194780491613916 1765.0437849479874 27.667388961802324 L1764.3080744979693 30.907162749893068 L1763.79311769224 31.091239183173116 L1760.9793169176946 29.360915317447176 C1759.6735749961535 28.569381361317863 1758.1655141476178 28.77186753516228 1757.0988588155685 29.857914396910214 L1754.5057488260788 32.43500044177459 C1753.4207006828908 33.557867783335254 1753.218401711208 35.067316707016076 1754.0275786403927 36.33743900336006 L1755.7747250806544 39.13536004291019 L1755.5908179223447 39.613927410761214 L1752.4092028311798 40.387176461824176 C1750.937926607156 40.7553712731116 1750.0 41.95189854929341 1750.0 43.479547489901925 L1750.0 47.1059867495675 C1750.0 48.63384541381269 1750.9563194182947 49.830372689994505 1752.4092028311798 50.19856750128193 L1755.6275825915445 50.95317711446416 L1755.7930969387155 51.39488305645909 L1754.0459714515314 54.21142356021028 C1753.2367935245811 55.4814619670996 1753.4390725409519 56.99088891973277 1754.5241416372176 58.09547335359505 L1757.1172516267072 60.672413590597735 C1758.1839069587566 61.758562318112055 1759.710340663119 61.979523146979815 1760.9977097288333 61.169410672692806 L1763.811532454222 59.4208029005845 L1764.3080744979693 59.60490030622821 L1765.0437849479874 62.826283328750286 C1765.3930168780034 64.29885085289534 1766.5884438388673 65.2559895833333 1768.1333122605238 65.2559895833333 Z M1768.611439542289 61.86893687204361 C1768.298825609929 61.86893687204361 1768.1333122605238 61.740134601235965 1768.0964847320909 61.46409035853679 L1766.993127590075 56.93580550590134 C1765.8345281576437 56.659557531669385 1764.7127562536457 56.180988166450405 1763.811532454222 55.61026823264318 L1759.8390903410902 58.058609930371 C1759.6000037515987 58.2058479075266 1759.379311968777 58.18741619591458 1759.1586201859557 57.96645936178275 L1757.2275875404619 56.03375418403074 C1757.0068947598747 55.831225066775005 1757.0068947598747 55.61026823264318 1757.1540372489847 55.37108741316804 L1759.6000037515987 51.39488305645909 C1759.0850688967128 50.51146717773329 1758.606899708792 49.40688673860694 1758.3310494478665 48.24722088828121 L1753.7885149995102 47.161279887035604 C1753.5126437855067 47.12441846117952 1753.3655222494745 46.95875076977987 1753.3655222494745 46.64584909596054 L1753.3655222494745 43.92146315553354 C1753.3655222494745 43.590131767470155 1753.494250974368 43.46132550192658 1753.7885149995102 43.38760265021442 L1758.3126566367278 42.319881639576195 C1758.5885068976534 41.08670465854295 1759.1218545189902 39.94526079619256 1759.58161094046 39.116928331298176 L1757.135644437846 35.17775317935465 C1756.988501948736 34.9200387825011 1756.988501948736 34.699143866776296 1757.1908019181844 34.47826892473118 L1759.1402273748167 32.56384765336152 C1759.3609191576384 32.36136147951711 1759.5632181293213 32.324562970752034 1759.8390903410902 32.4902296634677 L1763.7747049257891 34.90162904193673 C1764.6022756638783 34.386220221909326 1765.8345281576437 33.87081140188191 1767.0115403565255 33.57627752389962 L1768.0964847320909 29.04797070021653 C1768.1333122605238 28.77186753516228 1768.298825609929 28.62458961064731 1768.611439542289 28.62458961064731 L1771.388560457711 28.62458961064731 C1771.7011763856021 28.62458961064731 1771.8482749730254 28.75345779459791 1771.9035172634403 29.04797070021653 L1773.0068744054565 33.594687264464 C1774.2023013663202 33.88922114244629 1775.2874512816 34.386220221909326 1776.2068843032912 34.90162904193673 L1780.142602655613 32.4902296634677 C1780.41838905954 32.342951738952735 1780.6207319329094 32.36136147951711 1780.8414855771985 32.5822573939259 L1782.7908282192857 34.496656694247896 C1783.0115818635747 34.699143866776296 1783.0115818635747 34.9200387825011 1782.8460685141695 35.17775317935465 L1780.41838905954 39.116928331298176 C1780.8596888128725 39.94526079619256 1781.4114731470345 41.08670465854295 1781.6874710772695 42.319881639576195 L1786.2115917614094 43.38760265021442 C1786.5057929273185 43.46132550192658 1786.6160659818402 43.590131767470155 1786.6160659818402 43.92146315553354 L1786.6160659818402 46.64584909596054 C1786.6160659818402 46.95875076977987 1786.4873781653366 47.12441846117952 1786.2115917614094 47.161279887035604 L1781.6690563152877 48.24722088828121 C1781.3930583850524 49.40688673860694 1780.8965183368364 50.52989888934531 1780.3815635266385 51.39488305645909 L1782.8276537521874 55.35265570155602 C1782.974756330673 55.61026823264318 1782.974756330673 55.81279335516298 1782.7539986953218 56.01532247241872 L1780.8230708152164 57.96645936178275 C1780.6023171709273 58.18741619591458 1780.3815635266385 58.2058479075266 1780.142602655613 58.058609930371 L1776.1884695413091 55.61026823264318 C1775.2690405106805 56.180988166450405 1774.2207121372398 56.64112582005736 1773.0068744054565 56.93580550590134 L1771.9035172634403 61.46409035853679 C1771.8482749730254 61.740134601235965 1771.7011763856021 61.86893687204361 1771.388560457711 61.86893687204361 L1768.611439542289 61.86893687204361 Z M1770.009207380991 52.241647232965505 C1773.8344451435455 52.241647232965505 1776.9794222817422 49.09398506478762 1776.9794222817422 45.24679469989096 C1776.9794222817422 41.43646775821835 1773.8344451435455 38.28859586640379 1770.009207380991 38.28859586640379 C1766.1655568519857 38.28859586640379 1763.0023744825837 41.43646775821835 1763.0023744825837 45.24679469989096 C1763.0023744825837 49.09398506478762 1766.1655568519857 52.241647232965505 1770.009207380991 52.241647232965505 Z M1770.009207380991 49.05712363893154 C1767.9125566207035 49.05712363893154 1766.2023843804186 47.34516756904264 1766.2023843804186 45.24679469989096 C1766.2023843804186 43.18507553032666 1767.9309693871544 41.47311946043775 1770.009207380991 41.47311946043775 C1772.0506178463947 41.47311946043775 1773.7609996174567 43.18507553032666 1773.7609996174567 45.24679469989096 C1773.7609996174567 47.32694558106729 1772.0506178463947 49.05712363893154 1770.009207380991 49.05712363893154 Z "></path>\
+                    	    </defs>\
+                    	    <g style="mix-blend-mode:normal">\
+                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_30-b34bf" fill="#3D3228" fill-opacity="1.0"></use>\
+                    	    </g>\
+                    	  </g>\
+                    	</svg>\
+\
+                    </div>\
+                  </div>\
+                </div>\
+                <div id="s-Button_2" class="button multiline manualfit firer mouseenter mouseleave click commentable non-processed" customid="Secondary button"  title="Create a new project" datasizewidth="40.00px" datasizeheight="42.00px" dataX="1264.00" dataY="24.26" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Button_2_0">+</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
                 </div>\
 \
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_2" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="513.87px" datasizeheight="63.00px" dataX="130.00" dataY="169.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_2_0">Welcome back, User!</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Table_1" class="table firer commentable non-processed" customid="Untitled Page table"  datasizewidth="780.00px" datasizeheight="508.00px" dataX="130.00" dataY="455.00" originalwidth="777.9999999999998px" originalheight="506.00000000000017px" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <table summary="">\
+              <tbody>\
+                <tr>\
+                  <td id="s-Text_cell_3" class="textcell manualfit firer mouseenter mouseleave click ie-background non-processed" customid="Untitled Project"    datasizewidth="780.00px" datasizeheight="81.73px" dataX="0.00" dataY="0.00" originalwidth="777.9999999999998px" originalheight="79.7333333333335px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_3_0">Untitled Project</span></div></div></div></div></div></div>  </td>\
+                </tr>\
+                <tr>\
+                  <td id="s-Text_cell_4" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"    datasizewidth="780.00px" datasizeheight="428.27px" dataX="0.00" dataY="0.00" originalwidth="777.9999999999998px" originalheight="426.2666666666668px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_4_0"></span></div></div></div></div></div></div>  </td>\
+                </tr>\
+              </tbody>\
+            </table>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_3" class="image firer mouseenter mouseleave click ie-background commentable non-processed" customid="Image 3"   datasizewidth="728.00px" datasizeheight="385.00px" dataX="156.00" dataY="552.00"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/ef238551-6d89-4735-b64b-2c06d55e4546.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Text_4" class="richtext autofit firer ie-background commentable non-processed" customid="Last updated 28 minutes a"   datasizewidth="287.23px" datasizeheight="26.00px" dataX="577.63" dataY="482.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_4_0">Last updated 28 minutes ago</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Table_2" class="table firer commentable non-processed" customid="Featured table"  datasizewidth="780.00px" datasizeheight="717.44px" dataX="1055.53" dataY="245.54" originalwidth="777.9999999999998px" originalheight="715.4410958904111px" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <table summary="">\
+              <tbody>\
+                <tr>\
+                  <td id="s-Text_cell_7" class="textcell manualfit firer mouseenter mouseleave ie-background non-processed" customid="Featured"    datasizewidth="780.00px" datasizeheight="80.00px" dataX="0.00" dataY="0.00" originalwidth="777.9999999999998px" originalheight="78.0px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_7_0">Featured</span></div></div></div></div></div></div>  </td>\
+                </tr>\
+                <tr>\
+                  <td id="s-Text_cell_8" class="textcell manualfit firer ie-background non-processed" customid="Text_cell"    datasizewidth="780.00px" datasizeheight="639.44px" dataX="0.00" dataY="0.00" originalwidth="777.9999999999998px" originalheight="637.4410958904114px" ><div class="cellContainerChild"><div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div><div class="borderLayer"><div class="paddingLayer"><div class="clipping"><div class="content"><div class="valign"><span id="rtr-s-Text_cell_8_0"></span></div></div></div></div></div></div>  </td>\
+                </tr>\
+              </tbody>\
+            </table>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Featured User" datasizewidth="0.00px" datasizeheight="0.00px" >\
+        <div id="s-Text_5" class="richtext autofit firer ie-background commentable non-processed" customid="Featured User"   datasizewidth="164.03px" datasizeheight="31.00px" dataX="1086.68" dataY="346.00" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_5_0">Featured User</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image_4" class="image lockV firer mouseenter mouseleave ie-background commentable non-processed" customid="Image 3"   datasizewidth="104.58px" datasizeheight="104.58px" dataX="1085.44" dataY="415.37" aspectRatio="1.0"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/8bbfb9cf-a0af-4280-9a00-3cda2ac6bc25.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Text_6" class="richtext manualfit firer ie-background commentable non-processed" customid="Hi! I&#039;m a dog lover who l"   datasizewidth="596.81px" datasizeheight="62.00px" dataX="1208.82" dataY="467.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_6_0">Hi! I&#039;m a dog lover who likes to make a lot of art like sculptures, painting, lithography, collage, and ...</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_7" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Pawcasso"   datasizewidth="115.34px" datasizeheight="31.00px" dataX="1208.82" dataY="398.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_7_0">Pawcasso</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_8" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="@dogperson123"   datasizewidth="132.07px" datasizeheight="21.00px" dataX="1208.82" dataY="431.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_8_0">@dogperson123</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Featured Project" datasizewidth="0.00px" datasizeheight="0.00px" >\
+        <div id="s-Text_9" class="richtext autofit firer ie-background commentable non-processed" customid="Featured Project"   datasizewidth="194.56px" datasizeheight="31.00px" dataX="1086.68" dataY="550.00" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_9_0">Featured Project</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image_5" class="image lockV firer mouseenter mouseleave ie-background commentable non-processed" customid="Image 3"   datasizewidth="104.58px" datasizeheight="104.58px" dataX="1085.44" dataY="619.37" aspectRatio="1.0"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/38cf80ae-f2d7-4261-aa23-0dd242037e8e.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Text_10" class="richtext autofit firer mouseenter mouseleave ie-background commentable non-processed" customid="Virtual Cats 2.0"   datasizewidth="179.56px" datasizeheight="31.00px" dataX="1208.82" dataY="602.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_10_0">Virtual Cats 2.0</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_11" class="richtext autofit firer ie-background commentable non-processed" customid="by"   datasizewidth="20.02px" datasizeheight="21.00px" dataX="1208.82" dataY="635.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_11_0">by</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_12" class="richtext manualfit firer ie-background commentable non-processed" customid="A short C++ based game ab"   datasizewidth="596.81px" datasizeheight="62.00px" dataX="1208.82" dataY="671.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_12_0">A short C++ based game about taking care of your six cats!</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_13" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Purrlock Holmes"   datasizewidth="134.02px" datasizeheight="21.00px" dataX="1233.59" dataY="635.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_13_0">Purrlock Holmes</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Featured Album" datasizewidth="0.00px" datasizeheight="0.00px" >\
+        <div id="s-Text_14" class="richtext autofit firer ie-background commentable non-processed" customid="Featured Album"   datasizewidth="185.74px" datasizeheight="31.00px" dataX="1086.68" dataY="753.50" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_14_0">Featured Album</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Image_6" class="image lockV firer mouseenter mouseleave ie-background commentable non-processed" customid="Image 3"   datasizewidth="104.58px" datasizeheight="104.58px" dataX="1085.44" dataY="822.87" aspectRatio="1.0"   alt="image">\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+          		<img src="./images/98af3843-d6b2-469f-86fa-d2d0b46eda0f.png" />\
+          	</div>\
+          </div>\
+        </div>\
+\
+        <div id="s-Text_15" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="An Author&#039;s Adventure"   datasizewidth="270.56px" datasizeheight="31.00px" dataX="1208.82" dataY="806.00" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_15_0">An Author&#039;s Adventure</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_16" class="richtext autofit firer ie-background commentable non-processed" customid="by"   datasizewidth="20.02px" datasizeheight="21.00px" dataX="1208.82" dataY="839.00" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_16_0">by</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_17" class="richtext manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Write or Flight"   datasizewidth="134.02px" datasizeheight="21.00px" dataX="1233.59" dataY="839.00" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_17_0">Write or Flight</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Text_18" class="richtext manualfit firer ie-background commentable non-processed" customid="Welcome all to a place wh"   datasizewidth="596.81px" datasizeheight="62.00px" dataX="1208.82" dataY="875.00" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Text_18_0">Welcome all to a place where writers from all around the world come together to write! :D</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Button_1" class="button multiline manualfit firer mouseenter mouseleave click commentable non-processed" customid="Secondary button"   datasizewidth="259.00px" datasizeheight="74.00px" dataX="130.00" dataY="294.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Button_1_0">+ New Project</span>\
               </div>\
             </div>\
           </div>\
